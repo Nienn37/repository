@@ -1,2 +1,3 @@
 if __name__ == "__main__":
-    print("hello")
+    name=input("What is your name?\n")
+    print(f"Hello, {name}!"*2)
