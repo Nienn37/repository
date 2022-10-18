@@ -1,0 +1,3 @@
+[submodule "scrap_tutorial"]
+	path = scrap_tutorial
+	url = https://github.com/pythontoday/scrap_tutorial
